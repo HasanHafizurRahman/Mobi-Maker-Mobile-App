@@ -3,12 +3,14 @@ import React from 'react'
 
 const profile = () => {
   return (
-    <View>
-      <Text>profile</Text>
+    <View style={styles.container}>
+      <Text className="text-center">profile</Text>
     </View>
   )
 }
 
 export default profile
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+    text : 'center'
+})
