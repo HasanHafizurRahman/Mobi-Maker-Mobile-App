@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "mobi-maker-react-native",
-    "slug": "mobi-maker-react-native",
+    "name": "mobi-maker",
+    "slug": "mobimaker",
+    "scheme": "mobimaker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
